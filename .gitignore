@@ -1,0 +1,4 @@
+#all the secrets we don't want committed
+# *.txt for all text files
+secrets.txt
+.git
